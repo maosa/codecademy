@@ -41,7 +41,7 @@ ehthumbs.db
 Thumbs.db
 
 #######################
-# USER SELECTED FILES #
+# User selected files #
 #######################
 python/ml/__pycache__
 python/ml/yelp_regression_project/.ipynb_checkpoints

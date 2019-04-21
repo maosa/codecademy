@@ -7,3 +7,4 @@
 * yelp_review.json
 * yelp_tip.json
 * yelp_user.json
+* .ipynb_checkpoints/
