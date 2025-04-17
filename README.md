@@ -5,5 +5,6 @@ This repository contains code generated through my learning experience using Cod
 Learning topics include:
 
 * Python
+* SQL
 * Bash
 * Git
